@@ -1,1 +1,0 @@
-# swisstronik-task-2
